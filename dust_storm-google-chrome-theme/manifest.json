@@ -1,0 +1,33 @@
+{
+  "version": "0.3.2",
+  "name": "Dust Storm Theme for Google Chrome (TM)",
+  "description" : "A variant of my Dust Theme with a dusty image for those who wanted something a little darker -- joel.a.berger <at> gmail <dot> com",
+  "theme": {
+    "images" : {
+      "theme_frame" : "images/theme_frame_dust.png",
+      "theme_frame_inactive" : "images/theme_frame_inactive_dust.png",
+      "theme_frame_incognito_inactive" : "images/theme_frame_inactive_dust.png",
+      "theme_toolbar" : "images/theme_toolbar_dust.png",
+      "theme_tab_background" : "images/theme_tab_background_dust.png",
+      "theme_ntp_background" : "images/050427-M-5607G-001.png",
+      "theme_ntp_attribution" : "images/attrib.png"
+    },
+    "colors" : {
+      "frame" : [239, 237, 234],
+      "toolbar" : [239, 237, 234],
+      "ntp_header" : [44, 43, 41],
+      "ntp_section" : [239, 237, 234],
+      "bookmark_text" : [44, 43, 41],
+      "ntp_background" : [168, 168, 168]
+    },
+    "tints" : {
+      "buttons" : [0, 0, 0.5],
+      "frame_inactive" : [-1, -1, -1],
+      "frame_incognito_inactive" : [-1, -1, -1]
+    },
+    "properties" : {
+      "ntp_logo_alternate" : 1,
+      "ntp_background_alignment" : "bottom"
+    }
+  }
+}
